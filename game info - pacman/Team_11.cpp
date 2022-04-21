@@ -5,6 +5,15 @@
 #include <thread>
 #include <windows.h>
 
+/*
+Team name: qva-sbji-uwd
+Team ID: 11
+Team member:
+    1. 0816124 林浩君
+    2. 0811510 許承壹
+    3. 0816128 王暐承
+*/
+
 std::vector<int> step;
 
 int counter[4] = {1, 0, 3, 2};
